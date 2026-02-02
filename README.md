@@ -72,46 +72,46 @@ I enjoy building **scalable**, **clean**, and **production-ready** applications 
 
 ### **1. Android Contact Management App** 📱  
 📅 Nov. 2024 – Jan. 2025 | ISSAT Sousse  
-Développement d’une application mobile permettant de gérer un carnet de contacts, d’envoyer des messages directement et de partager sa localisation.  
+Development of a mobile application to manage a contact book, send messages directly, and share location.  
 
-**✨ Fonctionnalités :**  
-- 📇 Ajouter, modifier, supprimer et rechercher des contacts  
-- 📞 Appeler, 💬 envoyer des messages ou 🗺️ localiser un contact sur Google Maps  
-- 🖼️ RecyclerView pour l’affichage des contacts et messages  
-- 🔗 Intents pour appels et messagerie  
-- 🔒 Gestion des permissions pour appels, SMS et localisation  
+**✨ Features:**  
+- 📇 Add, edit, delete, and search contacts  
+- 📞 Call, 💬 message, or 🗺️ locate contacts on Google Maps  
+- 🖼️ RecyclerView for displaying contacts and messages  
+- 🔗 Intents for calls and messaging  
+- 🔒 Permissions management for calls, SMS, and location  
 
-**🛠️ Compétences :**  
+**🛠️ Skills:**  
 <img src="https://skillicons.dev/icons?i=androidstudio,java,sqlite,xml" width="100" height="100" style="margin:5px"/>
 
 ---
 
 ### **2. Restaurant Management Application** 🍽️  
 📅 Oct. 2024 – Dec. 2024  
-Application web pour gérer menus, commandes, réservations et clients d’un restaurant.  
+Web application to manage a restaurant’s menu, orders, reservations, and customers.  
 
-**✨ Fonctionnalités :**  
-- 🕒 Suivi des commandes en temps réel  
-- 📝 Mise à jour du menu et gestion des utilisateurs  
-- 📊 Génération de rapports sur ventes et fréquentation  
-- 🌐 Interfaces interactives et responsives  
+**✨ Features:**  
+- 🕒 Real-time order tracking  
+- 📝 Menu updates and user management  
+- 📊 Sales and attendance reporting  
+- 🌐 Interactive and responsive interfaces  
 
-**🛠️ Compétences :**  
+**🛠️ Skills:**  
 <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,html,css" width="100" height="100" style="margin:5px"/>
 
 ---
 
 ### **3. Student Management Application** 🎓  
 📅 Oct. 2024 – Dec. 2024  
-Application web pour gérer les étudiants, suivi des notes et présences, génération de rapports académiques et authentification sécurisée.  
+Web application to manage students, track grades and attendance, generate academic reports, and implement secure authentication.  
 
-**✨ Fonctionnalités :**  
-- 📇 Ajouter, modifier, supprimer et rechercher des étudiants  
-- 📝 Suivi des notes et présences  
-- 🔒 Système d’authentification et autorisation  
-- 🌐 Interfaces responsives  
+**✨ Features:**  
+- 📇 Add, edit, delete, and search students  
+- 📝 Track grades and attendance  
+- 🔒 Authentication and authorization system  
+- 🌐 Responsive user interfaces  
 
-**🛠️ Compétences :**  
+**🛠️ Skills:**  
 <img src="https://skillicons.dev/icons?i=symfony,mysql,html,css" width="100" height="100" style="margin:5px"/>
 
 
